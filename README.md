@@ -7,3 +7,7 @@ I'm Kaleigh! I love all things front end related.
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I used to do stand up comedy, but then 2020 happened.
 
+## My Blog
+<!-- BLOGPOSTS:START -->
+<!-- BLOGPOSTS:END -->
+
