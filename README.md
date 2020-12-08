@@ -9,11 +9,9 @@ I'm Kaleigh! I love all things front end related.
 
 ## My Blog
 <!-- BLOGPOSTS:START -->
-- [No title](https://kaleigh.devwordpress-gatsby-part-3)
-- [No title](https://kaleigh.devwordpress-gatsby-part-2)
-- [No title](https://kaleigh.devwordpress-gatsby-part-1)
-- [No title](https://kaleigh.devremote-work-tips)
-- [No title](https://kaleigh.devnevertheless-kaleigh-coded)
-- [No title](https://kaleigh.devfavorites-6-21-19)
+- [Create a Blog with WordPress and Gatsby & Part 3](https://kaleigh.dev/blog/wordpress-gatsby-part-3)
+- [Create a Blog with WordPress and Gatsby & Part 2](https://kaleigh.dev/blog/wordpress-gatsby-part-2)
+- [Create a Blog with WordPress and Gatsby & Part 1](https://kaleigh.dev/blog/wordpress-gatsby-part-1)
+- [Remote Work Tips](https://kaleigh.dev/blog/remote-work-tips)
 <!-- BLOGPOSTS:END -->
 
