@@ -6,6 +6,9 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=klgh&" alt="klgh" /></p>
+<p align="center"><img src="/github-metrics.svg" alt="Metrics" width="400"></p>
+<p align="center"><img src="/metrics.plugin.calendar.full.svg" alt="Metrics" width="400"></p>
+
 
 ### :zap: Recent Activity
 
