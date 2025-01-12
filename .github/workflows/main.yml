@@ -4,8 +4,8 @@ on:
   schedule: [{cron: "0 0 * * *"}]
   # (optional) Run workflow manually
   workflow_dispatch:
-  # (optional) Run workflow when pushing on master/main
-  push: {branches: ["master", "main"]}
+  # (optional) Run workflow when pushing on main
+  push: {branches: ["main"]}
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
@@ -18,7 +18,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           output_action: commit
-          committer_branch: metrics-renders
+          committer_branch: main
           committer_message: "chore: update metrics"
           retries: 3
           retries_delay: 300
