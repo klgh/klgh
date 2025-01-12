@@ -10,10 +10,10 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4500](https://github.com/hoppscotch/hoppscotch/issues/4500#issuecomment-2566909818) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
-2. 🔒 Closed issue [#4500](https://github.com/hoppscotch/hoppscotch/issues/4500) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
-3. 🗣 Commented on [#4500](https://github.com/hoppscotch/hoppscotch/issues/4500#issuecomment-2559996423) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
-4. 🗣 Commented on [#4286](https://github.com/hoppscotch/hoppscotch/issues/4286#issuecomment-2559990839) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
-5. 🔒 Closed issue [#4286](https://github.com/hoppscotch/hoppscotch/issues/4286) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
+1. ❌ Closed PR [#26](https://github.com/klgh/is-it-snowing-in-atlanta/pull/26) in [klgh/is-it-snowing-in-atlanta](https://github.com/klgh/is-it-snowing-in-atlanta)
+2. ❌ Closed PR [#25](https://github.com/klgh/is-it-snowing-in-atlanta/pull/25) in [klgh/is-it-snowing-in-atlanta](https://github.com/klgh/is-it-snowing-in-atlanta)
+3. ❌ Closed PR [#24](https://github.com/klgh/is-it-snowing-in-atlanta/pull/24) in [klgh/is-it-snowing-in-atlanta](https://github.com/klgh/is-it-snowing-in-atlanta)
+4. ❌ Closed PR [#23](https://github.com/klgh/is-it-snowing-in-atlanta/pull/23) in [klgh/is-it-snowing-in-atlanta](https://github.com/klgh/is-it-snowing-in-atlanta)
+5. ❌ Closed PR [#22](https://github.com/klgh/is-it-snowing-in-atlanta/pull/22) in [klgh/is-it-snowing-in-atlanta](https://github.com/klgh/is-it-snowing-in-atlanta)
 <!--END_SECTION:activity-->
 
