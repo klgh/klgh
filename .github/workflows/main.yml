@@ -1,15 +1,17 @@
 name: Metrics
+
 on:
   # Schedule daily updates
-  schedule: [{cron: "0 0 * * *"}]
+  schedule: [{cron: '0 0 * * *'}]
   # (optional) Run workflow manually
   workflow_dispatch:
   # (optional) Run workflow when pushing on main
-  push: {branches: ["main"]}
+  push: {branches: ['main']}
+
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
-    environment: 
+    environment:
       name: production
     permissions:
       contents: write
@@ -19,28 +21,10 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           output_action: commit
           committer_branch: main
-          committer_message: "chore: update metrics"
+          committer_message: 'chore: update metrics'
           retries: 3
           retries_delay: 300
           filename: metrics.plugin.calendar.full.svg
-          base: ""
+          base: ''
           plugin_calendar: yes
           plugin_calendar_limit: 0
-
-
-  achievements-detailed:
-    runs-on: ubuntu-latest
-    environment: 
-      name: production
-    permissions:
-      contents: write
-    steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.achievements.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_achievements: yes
-          plugin_achievements_only: sponsor, maintainer, octonaut
-      
-        
